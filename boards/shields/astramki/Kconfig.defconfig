@@ -1,0 +1,6 @@
+if SHIELD_ASTRAMKI
+
+config ZMK_KEYBOARD_NAME
+    default "astramki"
+
+endif # SHIELD_ASTRAMKI
